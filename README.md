@@ -29,4 +29,4 @@ Used technologies
 2.
 3.
 
-<Include all the steps to run the app as a new user> 
+Include all the steps to run the app as a new user 
