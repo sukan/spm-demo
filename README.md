@@ -19,6 +19,14 @@ Used technologies
 ## How to get started with your app
 
 ### Prerequisites
+1.
+2.
+3.
 
 ### Procedure of setting up prerequisites and run the project
-Include all the steps to run the app as a new user. 
+
+1.
+2.
+3.
+
+<Include all the steps to run the app as a new user> 
